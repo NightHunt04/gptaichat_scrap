@@ -28,5 +28,5 @@ python3 gptaichat_scrap.py
 
 # Outcome
 
-![Alt text](s.png?)
+![Alt text](s.png)
 
