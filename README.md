@@ -25,3 +25,8 @@ To run the program, make sure you are in the gptaichat_scrap directory, then sim
 ```bash
 python3 gptaichat_scrap.py
 ```
+
+# Outcome
+
+![Alt text](s.png?)
+
