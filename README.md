@@ -15,7 +15,7 @@ To install this, first clone this repository and install the required libraries.
 
 ```bash
 git clone https://github.com/NightHunt04/gptaichat_scrap.git
-cd gptaichat_scrap
+cd gptaichat_scrap/gptaichat_scrap
 pip install -r requirements.txt
 ```
 
